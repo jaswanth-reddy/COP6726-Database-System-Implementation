@@ -1,0 +1,9 @@
+*.o
+*.out
+*.a
+y.tab.c
+lex.yy.c
+y.tab.h
+.bigq
+*.xml
+*iml
